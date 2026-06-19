@@ -111,7 +111,7 @@ Climate-Temperature-Prediction/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/climate-temperature-prediction.git
+git clone https://github.com/Shadil-1/Climate_Prediction.git
 cd climate-temperature-prediction
 ```
 
